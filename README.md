@@ -15,5 +15,5 @@ Rust Book is a great official resource for learning the basics of the language:
 
 
 ## Cool Resources
-    - [Wicked Fast Web Servers in Rust](https://medium.com/@MertzAlertz/wicked-fast-web-servers-in-rust-4947688426bc)
-        - https://github.com/trezm/Thruster
+  - [Wicked Fast Web Servers in Rust](https://medium.com/@MertzAlertz/wicked-fast-web-servers-in-rust-4947688426bc)
+    - https://github.com/trezm/Thruster
