@@ -7,6 +7,13 @@ Learn Rust. This is a work in progress, please leave issues with feedback/sugges
 1. Print `hello world` to console.
 1. Create a function to do some simple maths
 1. Create a web server
-1. Setup a web server with a framework:
+
+## How to Learn Rust
+
+Rust Book is a great official resource for learning the basics of the language:
+> https://doc.rust-lang.org/book/ch01-00-getting-started.html
+
+
+## Cool Resources
     - [Wicked Fast Web Servers in Rust](https://medium.com/@MertzAlertz/wicked-fast-web-servers-in-rust-4947688426bc)
-    - https://github.com/trezm/Thruster
+        - https://github.com/trezm/Thruster
